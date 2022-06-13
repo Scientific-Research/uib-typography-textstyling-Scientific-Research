@@ -1,0 +1,41 @@
+/* css reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+h3 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-align: center;
+  letter-spacing: 18px;
+  word-spacing: 55px;
+}
+body {
+  padding: 40px;
+  color: blue;
+  font-family: "Courier New", Courier, monospace;
+}
+strong {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+blockquote {
+  margin: 0 0 0 30px;
+  font-style: italic;
+  line-height: 60px;
+}
+em {
+  text-transform: capitalize;
+}
+a {
+  color: brown;
+  text-decoration: none;
+}
